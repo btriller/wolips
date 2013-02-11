@@ -7,22 +7,18 @@ Bundle-Activator: org.objectstyle.wolips.jdt.JdtPlugin
 Bundle-Localization: plugin
 Bundle-Vendor: objectstyle.org
 Require-Bundle: org.eclipse.ui,
- org.eclipse.core.resources,
  org.eclipse.jdt.core,
  org.objectstyle.wolips.variables,
  org.eclipse.jdt.ui,
  org.objectstyle.wolips.baseforplugins,
  org.eclipse.ui.ide,
  org.objectstyle.wolips,
- org.eclipse.jdt,
- org.eclipse.jdt.apt.core,
  org.objectstyle.wolips.workbenchutilities,
  org.objectstyle.wolips.woproject,
  org.eclipse.jface.text,
- org.eclipse.ltk.core.refactoring,
- org.eclipse.ltk.ui.refactoring,
  org.objectstyle.wolips.refactoring,
- org.eclipse.jdt.launching
+ org.eclipse.jdt.launching,
+ org.eclipse.ltk.ui.refactoring;bundle-version="3.7.0"
 Bundle-ActivationPolicy: lazy
 Export-Package: org.objectstyle.wolips.jdt,
  org.objectstyle.wolips.jdt.classpath,

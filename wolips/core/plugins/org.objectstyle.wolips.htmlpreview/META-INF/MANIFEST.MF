@@ -11,7 +11,6 @@ Require-Bundle: org.objectstyle.wolips.components,
  org.objectstyle.wolips.tkhtmleditor,
  org.objectstyle.wolips.locate,
  org.eclipse.jdt.core,
- org.objectstyle.wolips,
  org.objectstyle.wolips.bindings,
  org.objectstyle.wolips.variables;bundle-version="1.0.6"
 Bundle-ActivationPolicy: lazy

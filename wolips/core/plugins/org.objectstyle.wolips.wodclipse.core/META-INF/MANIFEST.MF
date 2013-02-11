@@ -7,15 +7,11 @@ Bundle-Activator: org.objectstyle.wolips.wodclipse.core.Activator
 Require-Bundle: org.objectstyle.wolips,
  org.eclipse.jdt.core,
  org.eclipse.jdt.ui,
- org.objectstyle.wolips.preferences,
  org.objectstyle.wolips.baseforuiplugins,
  org.objectstyle.wolips.locate,
- org.objectstyle.wolips.workbenchutilities,
  org.objectstyle.wolips.eomodeler.core,
  org.eclipse.ui.editors,
  org.objectstyle.wolips.bindings;bundle-version="1.0.6",
- org.eclipse.ltk.core.refactoring,
- org.objectstyle.wolips.thirdparty.commonscollections;bundle-version="1.0.6",
  org.objectstyle.wolips.woproject;bundle-version="1.0.6",
  org.objectstyle.wolips.variables;bundle-version="1.0.6"
 Bundle-ActivationPolicy: lazy

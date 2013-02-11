@@ -6,7 +6,6 @@ Bundle-Version: 1.0.6
 Bundle-Activator: org.objectstyle.wolips.apieditor.ApieditorPlugin
 Bundle-Vendor: objectstyle.org
 Require-Bundle: org.eclipse.ui.forms,
- org.objectstyle.wolips,
  org.objectstyle.wolips.baseforuiplugins,
  org.objectstyle.wolips.bindings
 Bundle-ActivationPolicy: lazy

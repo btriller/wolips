@@ -11,13 +11,9 @@ Require-Bundle: org.eclipse.core.filesystem,
  org.eclipse.core.databinding.beans,
  org.eclipse.ui.forms,
  org.eclipse.ui.editors,
- org.eclipse.jdt.core,
  org.eclipse.jdt.ui,
  org.objectstyle.wolips.baseforuiplugins,
- org.objectstyle.wolips.bindings,
- org.objectstyle.wolips.eomodeler.core,
  org.objectstyle.wolips.wodclipse.core,
- org.objectstyle.wolips.thirdparty.commonscollections;bundle-version="1.0.6",
  org.objectstyle.wolips.woproject;bundle-version="1.0.6"
 Bundle-ActivationPolicy: lazy
 Export-Package: org.objectstyle.wolips.wooeditor,
